@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 # Command to start the app
-CMD ["node", "llm.js"]
+CMD ["node", "testimony.js"]
